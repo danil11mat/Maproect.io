@@ -18,7 +18,7 @@ function saveData() {
         reader.readAsDataURL(image);
     }
     // Открываем другую вкладку
-    window.open("Index1.html");
+    window.open("index1.html");
   }
   function checkPasswordMatch() {
     var password = document.getElementById("pass");
